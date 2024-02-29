@@ -41,16 +41,19 @@ Your app is ready to be deployed!
 
 
 ## Technologies Used
+
 <p><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
 
 
 ## API Reference
+
 - [Free Dictionary API documentation](https://dictionaryapi.dev/)
 
   
 ## Video Demo
 
-https://github.com/yash-raj-gupta/responsive-header/assets/137718338/c5a19983-3414-4e06-865a-b595889fc1db
+https://github.com/yash-raj-gupta/dictionary-app/assets/137718338/8afe30c1-da57-45de-8a6d-f194188cb6fe
+
 
 ## Contributing
 
